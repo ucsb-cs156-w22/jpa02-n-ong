@@ -1,6 +1,6 @@
 # jpa02-n-ong
 
-Repo: https://ucsb-cs156-w22/jpa02-n-ong
+Repo: https://github.com/ucsb-cs156-w22/jpa02-n-ong
 
 On Heroku: https://jpa02-nong.herokuapp.com/
 
